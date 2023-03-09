@@ -1,0 +1,36 @@
+_repo: The-Creator-and-what-we-may-know-of-the-method-of-creation_70115
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dallinger, W. H. (William Henry)
+    alias: Dallinger, William Henry
+    birthdate: 1842
+    deathdate: 1909
+    gutenberg_agent_id: '55604'
+    url: http://www.gutenberg.org/2009/agents/55604
+    wikipedia: https://en.wikipedia.org/wiki/William_Dallinger
+description: ''
+gutenberg_issued: '2023-02-23'
+identifiers:
+  gutenberg: '70115'
+  lccn: '39030715'
+language: en
+pgterms:marc905: 20061006225732dallinger
+pgterms:marc906: '1887'
+pgterms:marc907: GB
+production_note: Charlene Taylor, Bryan Ness, Les Galloway and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from scanned images
+  of public domain material from the Google Books project.)
+publication_note: '  $aUnited Kingdom :$bT. Woolmer, $c1887.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religion and science'
+- !lcsh 'Evolution'
+- !lcsh 'Creation'
+- !lcsh 'God'
+- !lcc 'BL'
+- GITenberg
+title: The Creator, and what we may know of the method of creation
+url: http://www.gutenberg.org/ebooks/70115
